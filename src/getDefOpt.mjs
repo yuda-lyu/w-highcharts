@@ -15,6 +15,7 @@ function getDefOpt() {
 
         global: {
             useUTC: false, //輸入資料自訂UTC時間, 此處關閉避免被強制轉換
+            animation: false, //關閉動畫
         },
 
         lang: {
@@ -84,9 +85,10 @@ function getDefOpt() {
 
         plotOptions: {
             series: {
+                animation: false, //關閉動畫
                 dataGrouping: {
                     dateTimeLabelFormats: getDefDateFmt()
-                }
+                },
             },
         }
 
