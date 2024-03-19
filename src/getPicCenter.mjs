@@ -1,4 +1,4 @@
-import isNumber from 'lodash/isNumber'
+import isNumber from 'lodash-es/isNumber'
 
 
 function getPicCenter(xLimMin, xLimMax, yLimMin, yLimMax, invXY = false) {

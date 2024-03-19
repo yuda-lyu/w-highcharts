@@ -1,6 +1,6 @@
-import map from 'lodash/map'
-import get from 'lodash/get'
-import isNumber from 'lodash/isNumber'
+import map from 'lodash-es/map'
+import get from 'lodash-es/get'
+import isNumber from 'lodash-es/isNumber'
 import isfun from 'wsemi/src/isfun.mjs'
 import getAxisLimitByChart from './getAxisLimitByChart.mjs'
 

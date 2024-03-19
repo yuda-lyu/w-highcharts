@@ -6,6 +6,7 @@ A package for highcharts.
 [![license](https://img.shields.io/npm/l/w-highcharts.svg?style=flat)](https://npmjs.org/package/w-highcharts) 
 [![gzip file size](http://img.badgesize.io/yuda-lyu/w-highcharts/master/dist/w-highcharts.umd.js.svg?compression=gzip)](https://github.com/yuda-lyu/w-highcharts)
 [![npm download](https://img.shields.io/npm/dt/w-highcharts.svg)](https://npmjs.org/package/w-highcharts) 
+[![npm download](https://img.shields.io/npm/dm/w-highcharts.svg)](https://npmjs.org/package/w-highcharts) 
 [![jsdelivr download](https://img.shields.io/jsdelivr/npm/hm/w-highcharts.svg)](https://www.jsdelivr.com/package/npm/w-highcharts)
 
 ## Documentation
@@ -13,7 +14,7 @@ To view documentation or get support, visit [docs](https://yuda-lyu.github.io/w-
 
 ## Installation
 ### Using npm(ES6 module):
-> **Note:** w-highcharts is mainly dependent on `lodash` and `wsemi`.
+> **Note:** w-highcharts is mainly dependent on `lodash-es` and `wsemi`.
 ```alias
 npm i w-highcharts
 ```
@@ -23,6 +24,6 @@ npm i w-highcharts
 
 Add script for w-highcharts.
 ```alias
-<script src="https://cdn.jsdelivr.net/npm/w-highcharts@1.0.2/dist/w-highcharts.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/w-highcharts@1.0.3/dist/w-highcharts.umd.js"></script>
 
 ```

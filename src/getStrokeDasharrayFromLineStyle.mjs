@@ -1,5 +1,5 @@
-import toLower from 'lodash/toLower'
-import get from 'lodash/get'
+import toLower from 'lodash-es/toLower'
+import get from 'lodash-es/get'
 
 
 function getStrokeDasharrayFromLineStyle(lineStyle) {
