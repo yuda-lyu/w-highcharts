@@ -1,4 +1,4 @@
-import get from 'lodash-es/get'
+import get from 'lodash-es/get.js'
 import isbol from 'wsemi/src/isbol.mjs'
 import getConvertLocByChart from './getConvertLocByChart.mjs'
 import addRectCenterTextByChart from './addRectCenterTextByChart.mjs'

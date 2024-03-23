@@ -24,6 +24,6 @@ npm i w-highcharts
 
 Add script for w-highcharts.
 ```alias
-<script src="https://cdn.jsdelivr.net/npm/w-highcharts@1.0.3/dist/w-highcharts.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/w-highcharts@1.0.4/dist/w-highcharts.umd.js"></script>
 
 ```

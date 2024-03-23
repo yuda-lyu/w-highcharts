@@ -1,4 +1,4 @@
-import each from 'lodash-es/each'
+import each from 'lodash-es/each.js'
 import addLineByChart from './addLineByChart.mjs'
 
 

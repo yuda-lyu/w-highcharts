@@ -1,5 +1,5 @@
-import each from 'lodash-es/each'
-import get from 'lodash-es/get'
+import each from 'lodash-es/each.js'
+import get from 'lodash-es/get.js'
 import isestr from 'wsemi/src/isestr.mjs'
 import getMarkers from './getMarkers.mjs'
 

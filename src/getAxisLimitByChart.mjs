@@ -1,4 +1,4 @@
-import get from 'lodash-es/get'
+import get from 'lodash-es/get.js'
 import isp0int from 'wsemi/src/isp0int.mjs'
 import cint from 'wsemi/src/cint.mjs'
 

@@ -1,4 +1,4 @@
-import get from 'lodash-es/get'
+import get from 'lodash-es/get.js'
 import isnum from 'wsemi/src/isnum.mjs'
 import cdbl from 'wsemi/src/cdbl.mjs'
 

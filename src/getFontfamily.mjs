@@ -1,4 +1,4 @@
-import get from 'lodash-es/get'
+import get from 'lodash-es/get.js'
 import isestr from 'wsemi/src/isestr.mjs'
 import getHighchart from './getHighchart.mjs'
 
