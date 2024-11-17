@@ -4,7 +4,6 @@ A package for highcharts.
 ![language](https://img.shields.io/badge/language-JavaScript-orange.svg) 
 [![npm version](http://img.shields.io/npm/v/w-highcharts.svg?style=flat)](https://npmjs.org/package/w-highcharts) 
 [![license](https://img.shields.io/npm/l/w-highcharts.svg?style=flat)](https://npmjs.org/package/w-highcharts) 
-[![gzip file size](http://img.badgesize.io/yuda-lyu/w-highcharts/master/dist/w-highcharts.umd.js.svg?compression=gzip)](https://github.com/yuda-lyu/w-highcharts)
 [![npm download](https://img.shields.io/npm/dt/w-highcharts.svg)](https://npmjs.org/package/w-highcharts) 
 [![npm download](https://img.shields.io/npm/dm/w-highcharts.svg)](https://npmjs.org/package/w-highcharts) 
 [![jsdelivr download](https://img.shields.io/jsdelivr/npm/hm/w-highcharts.svg)](https://www.jsdelivr.com/package/npm/w-highcharts)

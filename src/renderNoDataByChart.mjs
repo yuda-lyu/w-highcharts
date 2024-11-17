@@ -13,7 +13,7 @@ function renderNoDataByChart(chart, opt = {}) {
     }
 
     //rectSize
-    let rectSize = { w: 100, h: 24 }
+    let rectSize = { w: 100, h: 40 }
 
     //getConvertLocByChart
     let cl = getConvertLocByChart(chart, opt)
@@ -26,7 +26,7 @@ function renderNoDataByChart(chart, opt = {}) {
     p = cl.cvp(p, invXY)
 
     //addRectCenterTextByChart
-    addRectCenterTextByChart(chart, p, rectSize, '無有效資料', { edgeColor: '#f26', faceColor: '#fff', zIndex: 10 })
+    addRectCenterTextByChart(chart, p, rectSize, `<tspan x="0" dy="-0.1rem">無有效資料</tspan><tspan x="0" dy="1.0rem" style="font-size:10pt;">No data</tspan>`, { edgeColor: '#f26', faceColor: '#fff', zIndex: 10 })
 
 }
 
