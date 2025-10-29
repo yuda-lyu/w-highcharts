@@ -12,17 +12,16 @@ A package for highcharts.
 To view documentation or get support, visit [docs](https://yuda-lyu.github.io/w-highcharts/w-highcharts.html).
 
 ## Installation
+
 ### Using npm(ES6 module):
-> **Note:** w-highcharts is mainly dependent on `lodash-es` and `wsemi`.
 ```alias
 npm i w-highcharts
 ```
 
 ### In a browser(UMD module):
-> **Note:** w-highcharts is mainly dependent on `highcharts`.
 
 Add script for w-highcharts.
 ```alias
+<script src="https://cdn.jsdelivr.net/npm/highcharts@11/highcharts.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/w-highcharts@1.0.4/dist/w-highcharts.umd.js"></script>
-
 ```
