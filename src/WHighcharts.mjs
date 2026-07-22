@@ -32,4 +32,5 @@ export { default as getStrokeDasharrayFromLineStyle } from './getStrokeDasharray
 export { default as getStrokeFromLineStyle } from './getStrokeFromLineStyle.mjs'
 export { default as iniMarkers } from './iniMarkers.mjs'
 export { default as renderNoDataByChart } from './renderNoDataByChart.mjs'
+export { default as renderTimeTick } from './renderTimeTick.mjs'
 export { default as setFontfamily } from './setFontfamily.mjs'
