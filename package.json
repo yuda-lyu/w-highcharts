@@ -1,13 +1,13 @@
 {
   "name": "w-highcharts",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "dist/w-highcharts.umd.js",
   "dependencies": {
     "dayjs": "^1.11.21",
-    "wsemi": "^1.8.76"
+    "wsemi": "^1.8.77"
   },
   "devDependencies": {
-    "w-package-tools": "^1.1.12"
+    "w-package-tools": "^1.1.13"
   },
   "scripts": {
     "test": "mocha --parallel --timeout 60000",
