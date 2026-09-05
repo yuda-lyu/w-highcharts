@@ -1,10 +1,10 @@
 {
   "name": "w-highcharts",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "main": "dist/w-highcharts.umd.js",
   "dependencies": {
     "dayjs": "^1.11.21",
-    "wsemi": "^1.8.84"
+    "wsemi": "^1.8.85"
   },
   "devDependencies": {
     "w-package-tools": "^1.1.15"
